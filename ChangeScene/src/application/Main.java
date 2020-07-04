@@ -9,6 +9,8 @@ import javafx.scene.layout.BorderPane;
 
 
 public class Main extends Application {
+	//--module-path D:\JFx\javafx-sdk-11.0.2\lib\  --add-modules=javafx.controls,javafx.fxml//
+	//Add user lib JavaFx, them run as configuration-> Arguments->vm arguments->paste the above path.
 	@Override
 	public void start(Stage primaryStage) {
 		try {
